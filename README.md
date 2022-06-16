@@ -47,14 +47,13 @@
 - React, JavaScript, Web Audio API
 - Live at https://colorhorizons.com
 
-## TimeKeeper
+## ezimg
 <p align="center">
-  <img src="https://jonlervold.com/github-images/timekeeper-12286.gif">
+  <img src="https://jonlervold.com/github-images/ezimg-883346.gif">
 </p>
 
-- TimeKeeper is a basic duration calculator designed for aiding in keeping track of total hour counts spent on an activity/project. The current functionality will soon be implemented into a larger system that will allow the user to log these hour counts as entries in a database, then calculate totals based on entered dates and visualize how they compare against stated goals.
-- React, TypeScript
-- Live at https://jonlervold.com/tk
+- ezimg is a straightforward image hosting front end. Image files can be uploaded with attached metadata, and the files can be navigated, shared, edited, rotated, and deleted. 
+- React, TypeScript, Express
 
 ## The Cedric Bixler-Zavala Lyrics Generator
 <p align="center">
@@ -65,13 +64,14 @@
 - React, TypeScript, Python (script served via AWS Lambda) 
 - Live at https://jonlervold.com/the-cedric-bixler-zavala-lyrics-generator
 
-## ezimg
+## TimeKeeper
 <p align="center">
-  <img src="https://jonlervold.com/github-images/ezimg-883346.gif">
+  <img src="https://jonlervold.com/github-images/timekeeper-12286.gif">
 </p>
 
-- ezimg is a straightforward image hosting front end. Image files can be uploaded with attached metadata, and the files can be navigated, shared, edited, rotated, and deleted. 
-- React, TypeScript, Express
+- TimeKeeper is a basic duration calculator designed for aiding in keeping track of total hour counts spent on an activity/project. The current functionality will soon be implemented into a larger system that will allow the user to log these hour counts as entries in a database, then calculate totals based on entered dates and visualize how they compare against stated goals.
+- React, TypeScript
+- Live at https://jonlervold.com/tk
 
 ## Neck Navigator
 <p align="center">
