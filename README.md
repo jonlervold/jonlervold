@@ -53,7 +53,7 @@
 </p>
 
 - ezimg is a straightforward image hosting front end. Image files can be uploaded with attached metadata, and the files can be navigated, shared, edited, rotated, and deleted. 
-- React, TypeScript, Express
+- React, TypeScript, Node.js, Express
 
 ## TimeKeeper
 <p align="center">
