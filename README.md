@@ -52,7 +52,7 @@
   <img src="https://jonlervold.com/github-images/ezimg-883346.gif">
 </p>
 
-- ezimg is a straightforward image hosting front end. Image files can be uploaded with attached metadata, and the files can be navigated, shared, edited, rotated, and deleted. 
+- ezimg is a straightforward image hosting service front end. Image files can be uploaded with attached metadata, and the files can be navigated, shared, edited, rotated, and deleted. 
 - React, TypeScript, Node.js, Express, Jimp
 
 ## TimeKeeper
