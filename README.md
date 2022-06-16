@@ -55,15 +55,6 @@
 - ezimg is a straightforward image hosting front end. Image files can be uploaded with attached metadata, and the files can be navigated, shared, edited, rotated, and deleted. 
 - React, TypeScript, Express
 
-## The Cedric Bixler-Zavala Lyrics Generator
-<p align="center">
-  <img src="https://jonlervold.com/github-images/cedbix-92345.gif">
-</p>
-
-- The Cedric Bixler-Zavala Lyrics Generator takes the entire body of lyrics written by one of my favorite vocalists over the span of his career and then runs a Markov chain generation algorithm on that text attempting to patch together new surreal imagery. 
-- React, TypeScript, Python (script served via AWS Lambda) 
-- Live at https://jonlervold.com/the-cedric-bixler-zavala-lyrics-generator
-
 ## TimeKeeper
 <p align="center">
   <img src="https://jonlervold.com/github-images/timekeeper-12286.gif">
@@ -72,6 +63,15 @@
 - TimeKeeper is a basic duration calculator designed for aiding in keeping track of total hour counts spent on an activity/project. The current functionality will soon be implemented into a larger system that will allow the user to log these hour counts as entries in a database, then calculate totals based on entered dates and visualize how they compare against stated goals.
 - React, TypeScript
 - Live at https://jonlervold.com/tk
+
+## The Cedric Bixler-Zavala Lyrics Generator
+<p align="center">
+  <img src="https://jonlervold.com/github-images/cedbix-92345.gif">
+</p>
+
+- The Cedric Bixler-Zavala Lyrics Generator takes the entire body of lyrics written by one of my favorite vocalists over the span of his career and then runs a Markov chain generation algorithm on that text attempting to patch together new surreal imagery. 
+- React, TypeScript, Python (script served via AWS Lambda) 
+- Live at https://jonlervold.com/the-cedric-bixler-zavala-lyrics-generator
 
 ## Neck Navigator
 <p align="center">
