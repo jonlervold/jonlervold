@@ -1,10 +1,10 @@
 # Greetings! 🤖
 
-I'm Jon, a web dev residing in the Denver Metro area and working with Tailwind LTD, a small B2B company providing services to over 500 businesses via the SalesForce App Exchange. I currently work primarily with React and TypeScript. I'm self-taught and always seeking to expand my knowledge — I love the dev field because there's no end to what can be learned! I'm a big fan of open source projects and technologies.
-
-Outside of the world of code, I'm a musician and audio engineer with credits on over 100 records, a proud husband and father of two awesome kids, and a travel enthusiast. I also enjoy riding my bike, spending time with my dog, and drinking coffee.
-
-As I continue to grow my career, I look forward to leveling-up my skills, collaborating with all kinds of minds, and providing value to my teams and the world by converting ideas into realized products for other people to utilize and enjoy!
+- Jon — Denver, Colorado 
+- Working with Tailwind LTD, a small B2B company providing services to over 500 businesses via the SalesForce App Exchange. I currently work primarily with React and TypeScript. 
+- Always seeking to expand my knowledge. I love the dev field because there's no end to what can be learned!
+- Outside of the world of code, I'm a musician and audio engineer with credits on over 100 records, a proud husband and father of two awesome kids, and a travel enthusiast. I also enjoy riding my bike, spending time with my dog, and drinking coffee.
+- As I continue to grow my career, I look forward to leveling-up my skills, collaborating with all kinds of minds, and providing value to my teams and the world by converting ideas into realized products for other people to utilize and enjoy!
 
 ## Technologies
 <p align="center">
