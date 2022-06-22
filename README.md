@@ -1,7 +1,7 @@
 # Greetings! 🤖
 
 - I'm Jon, resident of Denver, Colorado.
-- I work with Tailwind LTD, a small B2B company providing services to over 500 businesses via the SalesForce App Exchange. I currently work primarily with React and TypeScript. 
+- I work with Tailwind LTD, a B2B SaaS company providing services to over 500 businesses via the Salesforce App Exchange. I currently work primarily with React and TypeScript. 
 - I'm always seeking to expand my knowledge. I love the dev field because there's no end to what can be learned!
 - Outside of the world of code, I'm a musician and audio engineer with credits on over 100 records, a proud husband and father of two awesome kids, and a travel enthusiast. I also enjoy riding my bike, spending time with our dog, and drinking coffee.
 - As I continue to grow my career, I look forward to leveling-up my skills, collaborating with all kinds of minds, and providing value to my teams and the world by converting ideas into realized products for other people to utilize and enjoy!
