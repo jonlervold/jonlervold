@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/GIT-success?style=flat-square&logo=git&logoColor=white">
 </p>
 
-# Some Projects
+# Personal Projects
 
 ## Color Horizons
 <p align="center">
