@@ -80,3 +80,12 @@
 
 - Neck Navigator is a tool that can quickly and easily show a musician how to play any chord or scale on any fretted string instrument (e.g. guitar, bass, ukulele) using any possible string tuning setup. Configurations can be saved or shared instantly with other users via a dynamic URL system.
 - React, TypeScript
+
+## Talk2AI
+<p align="center">
+  <img src="https://jonlervold.com/github-images/talk2ai-00897.gif">
+</p>
+
+- Talk2AI is an alternative UI for sending prompts to and receiving responses from OpenAI's GPT-3.
+- React, TypeScript, OpenAI API
+- Live at https://jonlervold.com/talk2ai
