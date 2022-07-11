@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/A-Axios-yellow?style=flat-square&logo=axios&logoColor=white">
   <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/storybook-FF4785?style=flat-square&logo=storybook&logoColor=white">
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white">
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white">
